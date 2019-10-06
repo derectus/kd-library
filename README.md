@@ -39,7 +39,7 @@ and fill required env variables in the **.env** file and run following command f
 See this document: [https://laravel.com/docs/5.8/deployment]()
 
 ## Similar Projects
-See the [https://github.com/arkakapi/digital-library]( Arka Kapı Digital Library )
+See the [Arka Kapı Digital Library](https://github.com/arkakapi/digital-library)
 
 ## License
  This software is licensed under [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html). For details, please read LICENSE file.
