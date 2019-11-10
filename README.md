@@ -1,4 +1,4 @@
-# Klavye Delikanlıları Digital Library
+# Example Digital Library
 
 Book Exchange Program and Digital Library
 
